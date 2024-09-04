@@ -35,7 +35,7 @@ Need to install the following packages:
   localtunnel@2.0.2
 Ok to proceed? (y)
 
- After run this you will seee that...To proceed typy y and hit enter...You will see this link 
+ After run this you will seee that...To proceed typy 'y' and hit enter...You will see this link 
  your url is: https://proud-cameras-love.loca.lt.....
  click that link...Please proceed with caution.
 
