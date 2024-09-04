@@ -25,6 +25,26 @@ os.environ["GROQ_API_KEY"] = "your_api_key_here"  # Replace with your actual API
 
 
 
+ You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.139.88.62:8501
+
+Need to install the following packages:
+  localtunnel@2.0.2
+Ok to proceed? (y)
+
+ After run this you will seee that...To proceed typy y and hit enter...You will see this link 
+ your url is: https://proud-cameras-love.loca.lt.....
+ click that link...Please proceed with caution.
+
+To access the website, please enter the tunnel password below.
+Tunnel Password: 34.139.88.62 
+*******
+From  External URL copy ip address and hit enter again..
+
+
 Notes:
 source activate groqqle: Normally, you'd activate the conda environment, but in Colab, activating a conda environment isn't straightforward. Installing packages directly in the Colab environment should work without needing to activate the environment explicitly.
 Localtunnel: Since Streamlit runs on a local server, you'll need to expose it to the web using localtunnel. The URL provided by localtunnel will be accessible to view your Streamlit app.
