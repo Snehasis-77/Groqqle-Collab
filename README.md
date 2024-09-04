@@ -24,6 +24,7 @@ os.environ["GROQ_API_KEY"] = "your_api_key_here"  # Replace with your actual API
 !streamlit run Groqqle.py & npx localtunnel --port 8501
 
 
+After run this you will seee that....
 
  You can now view your Streamlit app in your browser.
 
@@ -35,7 +36,7 @@ Need to install the following packages:
   localtunnel@2.0.2
 Ok to proceed? (y)
 
- After run this you will seee that...To proceed typy 'y' and hit enter...You will see this link 
+To proceed typy 'y' and hit enter...You will see this link 
  your url is: https://proud-cameras-love.loca.lt.....
  click that link...Please proceed with caution.
 
