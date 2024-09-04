@@ -24,7 +24,7 @@ os.environ["GROQ_API_KEY"] = "your_api_key_here"  # Replace with your actual API
 !streamlit run Groqqle.py & npx localtunnel --port 8501
 
 
-After run this you will seee that....
+After run this code you will see that....
 
  You can now view your Streamlit app in your browser.
 
