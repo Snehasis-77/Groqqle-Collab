@@ -22,6 +22,9 @@ os.environ["GROQ_API_KEY"] = "your_api_key_here"  # Replace with your actual API
 
 # Streamlit requires special handling in Colab, so we'll use the following command:
 !streamlit run Groqqle.py & npx localtunnel --port 8501
+
+
+
 Notes:
 source activate groqqle: Normally, you'd activate the conda environment, but in Colab, activating a conda environment isn't straightforward. Installing packages directly in the Colab environment should work without needing to activate the environment explicitly.
 Localtunnel: Since Streamlit runs on a local server, you'll need to expose it to the web using localtunnel. The URL provided by localtunnel will be accessible to view your Streamlit app.
