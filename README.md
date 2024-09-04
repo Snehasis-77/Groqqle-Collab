@@ -13,10 +13,7 @@ condacolab.install()
 !mamba create --name groqqle python=3.11 -y
 !source activate groqqle
 
-# Step 4: Install the required packages
-!pip install -r requirements.txt
-
-# Step 5: Set the API key and run the Streamlit app
+# Step 4: Set the API key and run the Streamlit app
 import os
 os.environ["GROQ_API_KEY"] = "your_api_key_here"  # Replace with your actual API key
 
